@@ -1,0 +1,11 @@
+[{ "$id": "1", "name":"AngularJS","description":"HTML enhanced for web apps!","site":"http://angularjs.org/"},
+{"$id": "2", "name":"Backbone","description":"Models for your apps.","site":"http://documentcloud.github.com/backbone/"},
+{"$id": "3", "name":"Batman","description":"Quick and beautiful.","site":"http://batmanjs.org/"},
+{"$id": "4", "name":"Cappucino","description":"Objective-J.","site":"http://cappuccino.org/"},
+{"$id": "5", "name":"Ember","description":"Ambitious web apps.","site":"http://emberjs.com/"},
+{"$id": "6", "name":"GWT","description":"JS in Java.","site":"https://developers.google.com/web-toolkit/"},
+{"$id": "7", "name":"jQuery","description":"Write less, do more.","site":"http://jquery.com/"},
+{"$id": "8", "name":"Knockout","description":"MVVM pattern.","site":"http://knockoutjs.com/"},
+{"$id": "9", "name":"Sammy","description":"Small with class.","site":"http://sammyjs.org/"},
+{"$id": "10", "name":"Spine","description":"Awesome MVC Apps.","site":"http://spinejs.com/"},
+{"$id": "11", "name":"SproutCore","description":"Innovative web-apps.","site":"http://sproutcore.com/"}]
